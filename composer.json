@@ -1,0 +1,12 @@
+{
+    "name": "62823/project-unit-testing",
+    "authors": [
+        {
+            "name": "Rifaldi Ardan",
+            "email": "efalardan2020@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
